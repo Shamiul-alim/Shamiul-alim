@@ -1,7 +1,7 @@
 ![MasterHead](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)
 <h1 align="center">Hi 👋, I'm Samiul Alim</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8677f51a16845260da364aa981323417ea42d7d618253eb4a6e62713ca92a4df/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966">
+<img align="right" alt="coding" width="400" src="[https://camo.githubusercontent.com/8677f51a16845260da364aa981323417ea42d7d618253eb4a6e62713ca92a4df/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966](https://camo.githubusercontent.com/5a36f0e63a0aa687662aad485e707ea806cb364377b222adb9b8fa78c88bde47/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966)">
 
 - 📫 How to reach me **samiulalim01234@gmail.com**
 
