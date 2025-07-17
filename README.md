@@ -23,13 +23,13 @@
 ### 🌐 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/shamiul-alim" target="_blank">
+  <a href="www.linkedin.com/in/shamiul-alim-96bb6b247" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="https://fb.com/samiul.alim" target="_blank">
+  <a href="[https://fb.com/samiul.alim](https://www.facebook.com/samiul68/)" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://leetcode.com/samiul68" target="_blank">
+  <a href="[https://leetcode.com/samiul68](https://leetcode.com/u/samiul68/)" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" />
   </a>
   <a href="https://discordapp.com/users/dmshihab#3283" target="_blank">
