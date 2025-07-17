@@ -23,7 +23,7 @@
 ### 🌐 Connect with Me
 
 <p>
-  <a href="https:www.linkedin.com/in/shamiul-alim-96bb6b247" target="_blank">
+  <a href="https://www.linkedin.com/in/shamiul-alim-96bb6b247" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="https://www.facebook.com/samiul68?mibextid=ZbWKwL" target="_blank">
