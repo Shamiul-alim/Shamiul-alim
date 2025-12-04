@@ -84,3 +84,5 @@ I am a Computer Science and Engineering student with a strong foundation in both
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shamiul-alim&label=Profile%20Views&color=0e75b6&style=flat" alt="shamiul-alim" />
 </p>
+
+---
