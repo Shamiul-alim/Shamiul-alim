@@ -1,4 +1,4 @@
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0364e9e9-7eb7-4cfa-b1ca-fd470f8e767f" /><img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/18b7b78d-fc13-464e-b4f7-f145327ffc5f" /><!-- Banner -->
+
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif" width="100%" alt="banner">
 </p>
