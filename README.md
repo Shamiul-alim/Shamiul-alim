@@ -1,4 +1,4 @@
-<!-- Banner -->
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0364e9e9-7eb7-4cfa-b1ca-fd470f8e767f" /><img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/18b7b78d-fc13-464e-b4f7-f145327ffc5f" /><!-- Banner -->
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif" width="100%" alt="banner">
 </p>
@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5a36f0e63a0aa687662aad485e707ea806cb364377b222adb9b8fa78c88bde47/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/560a6c3eb01b4a63706aa25a072a3ab28141707ffff7843f12b42f4f648be9f9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966">
 
 ### About Me
 I am a Computer Science and Engineering student with a strong foundation in both frontend and backend development. My passion lies in crafting efficient, scalable, and user-centric web applications. I strive to continuously enhance my technical skills and am always eager to take on new challenges in the tech industry.
