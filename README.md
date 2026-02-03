@@ -67,15 +67,14 @@ I am a Computer Science and Engineering student with a strong foundation in both
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat" />
 </p>
 
+<p align='center'><img src="https://raw.githubusercontent.com/refat-pasha/refat-pasha/output/snake.svg"/></p>
+
+
 
 ---
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamiul-alim&show_icons=true&theme=github_dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamiul-alim&layout=compact&theme=github_dark" height="180"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamiul-alim&theme=github-dark&hide_border=true" />
